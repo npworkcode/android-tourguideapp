@@ -1,0 +1,170 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=30] -->
+    <string name="app_name">Trinidad &amp; Tobago Tour Guide</string>
+    <!-- Category name for Best Beaches in Trinidad & Tobago [CHAR LIMIT=20] -->
+    <string name="category_beaches">Beaches</string>
+
+    <!-- Category name for Best Restaurants in Trinidad & Tobago[CHAR LIMIT=20] -->
+    <string name="category_dining">Dining</string>
+
+    <!-- Category name for Events in Trinidad & Tobago [CHAR LIMIT=20] -->
+    <string name="category_events">Events</string>
+
+    <!-- Category name for Best Resorts in Trinidad & Tobago [CHAR LIMIT=20] -->
+    <string name="category_resorts">Resorts</string>
+
+    <string name="beaches_one">
+        LAS CUEVAS\n\n
+        Experience an authentic and unspoiled Caribbean beach in a half-day trip to Las Cuevas Beach from Port of Spain.\n
+This 1.36-mile (2.2-kilometer) beach is a Blue Flag award winner for its purity and compliance to international standards.\n
+Highlights of the tour include a Maracas Lookout photo op, a North Coast Road scenic drive, and a chance to sample local
+delicacies (own expense), such as sesame seed balls and pineapple chutney.\n
+North Coast Road, Trinidad.
+    </string>
+    <string name="beaches_two">
+        MARACAS BAY\n\n
+Maracas Beach is the most popular beach in the North of Trinidad. \n
+The drive to Maracas is spectacular, looking at scenic mountain views
+and breathtaking views of the beach and the Caribbean Sea.\n
+Once at the beach you can surf, take a swim or just simply sunbathe\n
+and have a great time under the palm trees. \n
+The most popular activity on the beach is tasting the world famous "bake and shark." \n
+Located at the North Coast of Trinidad.
+    </string>
+    <string name="beaches_three">
+        PIGEON POINT\n\n
+Pigeon Point is also known as Pigeon Point Heritage Park and is often considered
+Tobago\'s most beautiful beach and is home to the world famous thatch-roofed jetty
+which has become an internationally recognised signature of Tobago. \n
+The resort includes a long stretch of white sand beach with warm aquamarine waters
+Located at Crown Point which is South-West in Tobago.
+    </string>
+    <string name="beaches_four">
+        STORE BAY\n\n
+Just a 5-minute walk from the airport, this 200m stretch of sand meets surf,
+is one of Tobago\'s most popular beaches for visitors and locals alike. \n
+Known for its crystal clear waters, sunny days, and the laid-back island vibe,
+Store Bay makes for a perfect getaway from your hectic everyday. \n
+Located at Crown Point, South West in Tobago
+    </string>
+    <string name="dining_one">
+        CHAUD\n\n
+Food is superb. Every dish is exciting and very tasty. \n
+Service was also impeccable. The desserts were delicious \n
+and very artistic\n
+6 Nook Avenue, St. Anns, Port-Of-Spain, Trinidad.\n
+1-(868)-621-2002
+    </string>
+    <string name="dining_two">
+        JAFFA AT THE OVAL\n\n
+Sumptuous buffet lunch for excellent value at a premier location,
+the Trinidad Oval! \n
+        Serve an excellent selection of authentic Trini
+dishes as well as other traditional fare. Convenient parking.\n
+94 Tragarete Road, Queen's Park Oval, Port-Of-Spain, Trinidad.\n
+1-(868)-628-6200
+    </string>
+    <string name="dining_three">
+        KARIWAK VILLAGE\n\n
+Offers a winning combination of excellent Creole-style food and friendly service.\n
+Prix fixe and a la carte menus are available for breakfast, lunch and dinner. \n
+The real treat is that many of Kariwak’s dishes are accented with freshly picked
+herbs and vegetables pulled from its garden.\n
+Store Bay Local Road, Kariwak Village Street, Crown Point, Tobago\n
+1-(868)-639-8442
+    </string>
+    <string name="dining_four">
+        SEAHORSE INN\n\n
+From Seafood to Steaks, Creole &amp; International style cuisine. Nightly Entertainment. \n
+Enjoy cocktails with a magnificent sunset. Dine under the stars. \n
+Be caressed by the sound of the surf and the breeze in the coconut trees. \n
+Old Grafton Beach Road, Tobago \n
+1-(868)-639-0686
+    </string>
+    <string name="events_one">
+        SANTA ROSA CARIB FESTIVAL\n\n
+The Santa Rosa Carib Festival takes place in August during the week
+leading up to T&amp;T Independence Day, Aug. 31, and honors the indigenous
+First Peoples who populated Trinidad and Tobago for thousands of years
+before European settlement.\n
+        Highlights include the crowning of a Carib
+Queen, a church procession, and performance of traditional music and
+ritual smoke ceremonies and prayer.
+    </string>
+    <string name="events_two">
+        TOBAGO HERITAGE FESTIVAL\n\n
+The annual Tobago Heritage Festival starts in mid-July
+and peaks on Emancipation Day, Aug. 1, with a Carnival-style
+j\'ouvert celebration. The festival focuses mainly on African music,
+dance and traditions, including a traditional (mock) old-fashioned
+wedding ceremony in the village of Moriah that honors the melding of
+African and European traditions.
+    </string>
+    <string name="events_three">
+        TRINDAD CARNIVAL\n\n
+The Trinidad and Tobago Carnival is an annual event held on the Monday and Tuesday
+before Ash Wednesday in Trinidad and Tobago. The event is well known for participants\'
+colorful costumes and exuberant celebrations.
+    </string>
+    <string name="events_four">
+        PANORAMA\n\n
+Annual music competition held during Carnival. \n
+The preliminary round takes place in the respective panyards
+while the other rounds are held at the Queens Park Savannah,
+Port of Spain, fondly called the ‘Big Yard’.\n\n
+There are four main steelband categories in the Panorama competition.\n
+Large Conventional Steelbands - minimum of 95 and a maximum of 120 players.\n
+Medium Conventional Steelbands - minimum of 60 and a maximum of 90 players.\n
+Small Conventional Steelbands - minimum of 35 and a maximum of 55 players.\n
+Single Pan Bands - minimum of 25 and a maximum of 45 players.\n
+Conventional bands play an arrangement of a calypso for a maximum of 8 minutes.\n
+Single pan bands (which are harder to arrange for) play an arrangement of a calypso for a maximum of six minutes.\n
+Points are awarded for: Arrangement, General Performance, Tone and Rhythm
+    </string>
+    <string name="resorts_one">
+        COCO REEF RESORT\n\n
+Coco Reef is Tobago\'s premier beachfront hotel, sitting on ten acres
+of manicured tropical gardens. It provides the ultimate Caribbean
+vacation in a casually elegant setting.\n
+Coco Reef\'s guest accommodations feature tropical elegance with saltillo
+tiled patios and balconies, exquisite wall stencils, tiled vanities and the
+very finest hand-crafted wicker furniture. Of Coco Reef\'s total of 135 rooms,
+suites and villas, 114 have ocean views.\n
+        Coconut Bay, Bon Accord Village, Crown Point, Tobago\n
+        i-(868)-639-8571
+    </string>
+    <string name="resorts_two">
+        GRAFTON BEACH RESORT\n\n
+Located on a half mile stretch of sandy beaches and tropical waters in Tobago,
+Grafton Beach Resort captures the true essence of a Caribbean vacation with three
+stories of relaxing accommodations perfect for a the whole family or a romantic getaway.\n
+Shirvan Road, Black Rock, Tobago \n
+1-(868)-639-0191 \n
+    </string>
+    <string name="resorts_three">
+        HILTON RESORT\n\n
+Located on a hilltop overlooking the iconic Queen\'s Park Savannah,
+th hotel offers Guests an ideal location, spacious accommodations and
+breathtaking views of the city of Port of Spain as well as the Northern Range mountains.\n
+Beautiful Caribbean surroundings give Guests a truly unique Caribbean experience
+just minutes away from the busy city centre.\n
+Local nearby sights include Royal Botanical Gardens and Emperor Valley Zoo.\n
+Lady Young Road, Port-Of-Spain, Trinidad.\n
+1-(868)-624-3211
+    </string>
+    <string name="resorts_four">
+        HYATT HOTEL\n\n
+The Hyatt Regency Trinidad offers elegantly appointed guestrooms for idyllic
+timeshare vacations in Port of Spain, Trinidad. Hyatt\'s Grand Beds, iPod docking
+stations, flat screen TVs, and bamboo flooring are among the features of the
+accommodations awaiting you at the Hyatt Regency Trinidad!\n
+Amenities at the Hyatt Regency Trinidad do not disappoint! \n 
+Look forward to a rooftop infinity pool, a full service spa,
+24 hour room service, dining venues ranging from gourmet fare
+to quick meals, a sun deck, and more!\n
+        In true Hyatt style, you\'ll
+have the assistance of personal shoppers and a concierge!\n
+#1 Winston Road, Port-Of_Spain, Trinidad.\n
+1-(868)-623-2222
+    </string>
+</resources>

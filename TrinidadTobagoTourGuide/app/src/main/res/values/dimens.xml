@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="box_border_size">2dp</dimen>
+    <dimen name="box_curvature">5dp</dimen>
+    <dimen name="image_padding">16dp</dimen>
+    <dimen name="min_touritem_height">200dp</dimen>
+    <dimen name="image_height">300dp</dimen>
+    <dimen name="image_width">300dp</dimen>
+    <dimen name="text_size">14sp</dimen>
+    <dimen name="zero_dp">0dp</dimen>
+</resources>

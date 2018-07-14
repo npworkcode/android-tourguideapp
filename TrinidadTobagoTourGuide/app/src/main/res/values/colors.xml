@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!-- Color for border around list items -->
+    <color name="red_border">#FF0000</color>
+    <!-- Background color for app -->
+    <color name="tan_background">#FFF7DA</color>
+    <!-- Unselected Tab Text Color -->
+    <color name="text_unselect_color">#A8A19E</color>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="primary_color">#4A312A</color>
+    <!-- Text color -->
+    <color name="text_color">#FFFFFF</color>
+</resources>
